@@ -11,6 +11,10 @@
 <h1 align="center">🛠 Tech Stack</h1>
 
 <p align="center">
+	<!-- PostgreSQL -->
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/>&nbsp;
+	<!-- SQL (Generic Database icon) -->
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="SQL" alt="SQL" width="60" height="60"/>&nbsp;
   <!-- C -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" title="C" alt="C" width="60" height="60"/>&nbsp;
   <!-- C++ -->
@@ -24,6 +28,7 @@
   <!-- GitHub Actions -->
   <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" title="GitHub Actions" alt="GitHub Actions" width="60" height="60"/>&nbsp;
 </p>
+	
 
 ---
 
