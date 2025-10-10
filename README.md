@@ -8,6 +8,7 @@
   🎓 <strong>Mentor in C++ Programming Course</strong> at ITMO SE<br>
   💼 <strong>Backend Developer Intern</strong> at <strong>Yandex</strong><br>
 </p>
+
 ---
 
 <h1 align="center">🛠 Tech Stack</h1>
