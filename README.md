@@ -1,12 +1,12 @@
-<h1 align="center">👋 About Me</h1>
+<h1 align="center"> About Me</h1>
 
 <p align="center">
   My name is <strong>Dmitry</strong>.<br>
   I'm a <strong>beginner backend developer</strong> from Russia.<br>
   Currently studying <strong>Software Engineering</strong> at <strong>ITMO University</strong>.<br>
   <br>
-  🎓 <strong>Mentor in C++ Programming Course</strong> at ITMO SE<br>
-  💼 <strong>Backend Developer Intern</strong> at <strong>Yandex</strong><br>
+   <strong>Mentor in C++ Programming Course</strong> at ITMO SE<br>
+   <strong>Backend Developer Intern</strong> at <strong>Yandex</strong><br>
 </p>
 
 ---
